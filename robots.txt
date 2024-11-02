@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axuyouki.github.io/Tsj/sitemap_index.txt
+Sitemap: https://axuyouki.github.io/XNA/sitemap_index.txt
+Sitemap: https://axuyouki.github.io/cKs/sitemap_index.txt
+Sitemap: https://axuyouki.github.io/wWL/sitemap_index.txt
